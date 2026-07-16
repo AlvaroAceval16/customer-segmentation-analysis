@@ -37,7 +37,7 @@ El modelo segmentó exitosamente a la base de clientes en tres perfiles financie
 
 ### Clúster 1: Cazadores de Ofertas (Sensibles al Precio)
 
-* **Perfil:** Es el segmento más masivo, pero con los ingresos más bajos (~$33.4k) y el menor nivel de gasto (~$128). Tienen la edad promedio más joven (50 años).
+* **Perfil:** Es el segmento más masivo, pero con los ingresos más bajos ($33.4k) y el menor nivel de gasto ($128). Tienen la edad promedio más joven (50 años).
 * **Estrategia Comercial:** Altamente motivados por el ahorro. Este segmento debe ser el objetivo principal de las campañas de liquidación de inventario, cupones agresivos y promociones de 2x1.
 
 ## Tecnologías y Librerías Utilizadas
@@ -51,7 +51,7 @@ El modelo segmentó exitosamente a la base de clientes en tres perfiles financie
 
 1. Clonar el repositorio.
 2. Instalar las dependencias (`pip install pandas numpy scikit-learn matplotlib seaborn`).
-3. Explorar la libreta `sandbox.ipynb`:** Revisar la investigación preliminar, pruebas de concepto y la justificación técnica detrás de las decisiones de optimización del modelo
+3. Explorar la libreta `sandbox.ipynb`: Revisar la investigación preliminar, pruebas de concepto y la justificación técnica detrás de las decisiones de optimización del modelo
 4. Ejecutar la libreta `1_eda_and_cleaning.ipynb` para procesar los datos brutos.
 5. Ejecutar la libreta `02_clustering_model.ipynb` para entrenar el modelo y generar las visualizaciones.
 
